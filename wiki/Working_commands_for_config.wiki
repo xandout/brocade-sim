@@ -11,5 +11,14 @@ The following commands can be used in the running config (and can be written via
   * port-name
   * enable/disable of interface port
   * boot system flash pri/sec
+  * lldp run
+  * sntp server
+  * sntp poll-interval
+  * console timeout
+  * router rip
+  * router vrrp
+  * snmp-server location
+  * logging consoel
+  * logging persistence
 
 The no commands for the same as well.
