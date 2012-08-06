@@ -20,5 +20,7 @@ The following commands can be used in the running config (and can be written via
   * snmp-server location
   * logging consoel
   * logging persistence
+  * write memory
+  * show 
 
 The no commands for the same as well.
