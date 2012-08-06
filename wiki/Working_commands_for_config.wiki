@@ -1,15 +1,15 @@
 #labels Phase-QA
 The following commands can be used in the running config (and can be written via write memory);
 
-* hostname
-* cdp run
-* fdp run
-* logging host
-* snmp server
-* spanning-tree root-protect
-* stp-bpdu-guard
-* port-name
-* enable/disable of interface port
-* boot system flash pri/sec
+  * hostname
+  * cdp run
+  * fdp run
+  * logging host
+  * snmp server
+  * spanning-tree root-protect
+  * stp-bpdu-guard
+  * port-name
+  * enable/disable of interface port
+  * boot system flash pri/sec
 
 The no commands for the same as well.
