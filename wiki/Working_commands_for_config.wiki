@@ -1,4 +1,4 @@
-#labels Phase-QA
+#labels Phase-QA,Featured
 The following commands can be used in the running config (and can be written via write memory);
 
 Enable level
