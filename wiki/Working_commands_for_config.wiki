@@ -31,5 +31,8 @@ Interface level
   * port-name
   * enable/disable of interface port
 
+VLAN level
+  * tag ethernet slot/port
+  * untag ethernet slot/port
 
 The no commands for the same as well.
