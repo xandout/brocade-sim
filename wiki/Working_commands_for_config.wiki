@@ -7,7 +7,7 @@ Enable level
   * show 
 
 Config level 
-  * arp <ip> <mac> inspection
+  * arp 'ip' 'mac' inspection
   * aggregated-vlan command
   * boot system flash pri/sec
   * cdp run
